@@ -1,6 +1,174 @@
 {
-  "lastUpdated": "2026-01-31T15:50:25.436701+00:00",
+  "lastUpdated": "2026-01-31T18:25:03.903423+00:00",
   "articles": [
+    {
+      "id": "64ff827fdea813c51d0cf6c6eb2a14c9d45724e1",
+      "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+      "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
+      "source": "BBC",
+      "publishedAt": "2026-01-31T18:06:01+00:00",
+      "tags": [
+        "conflict"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d5/live/cbf50f70-fe96-11f0-ae1d-b56660f38b59.jpg",
+      "content_hash": "31a256e7e98ce67a5daac52586b8b3a76c9af748",
+      "ai_summary": "• Israeli air strikes kill at least 32 Palestinians in Gaza.\n• The strikes occur during a ceasefire between Israel and Hamas.\n• A ceasefire is also broken by both Israel and Hamas."
+    },
+    {
+      "id": "b31d0e4fe2a47d06b060b8bfb082b43f3c6831b7",
+      "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
+      "link": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss",
+      "summary": "Protest death toll speculations are used to rally support for an attack on Iran and downplay the genocide in Gaza.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-01-31T18:01:03+00:00",
+      "tags": [
+        "conflict"
+      ],
+      "image": null,
+      "content_hash": "1d1753a77a3134ae645dd5f81dd3faae8e0a3d9c",
+      "ai_summary": "• The Iranian government reported 3,117 deaths between January 8 and 10.\n• HRANA (Human Rights Activists News Agency) has cited over 6,000 deaths.\n• There are over 17,000 cases under examination by HRANA.\n• Iran's death toll is estimated to be between 16,500 and 33,000."
+    },
+    {
+      "id": "c8afa5590aa0552521d1fe6279d073121f0074a3",
+      "title": "Takeaways from the millions of newly released Epstein files",
+      "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
+      "source": "BBC",
+      "publishedAt": "2026-01-31T17:48:01+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a1/live/5f68ffd0-fe9e-11f0-9972-d3f265c101c6.jpg",
+      "content_hash": "90a7d89d14cf601e12088ffadd1e8f86c7ff235a",
+      "ai_summary": "• 3 million new documents were released.\n• Hundreds of mentions of Donald Trump were found.\n• Emails between Jeffrey Epstein and \"The Duke\" were included."
+    },
+    {
+      "id": "3de43e069e40d1aa5fa0365d73063ea5ef38e300",
+      "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
+      "link": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian comedic actress died in Los Angeles on Friday at the age of 71 following a brief illness.",
+      "source": "BBC",
+      "publishedAt": "2026-01-31T17:41:48+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c486/live/751149c0-fe88-11f0-a8b8-bdd2c5f9bcad.jpg",
+      "content_hash": "9a5b144481b3e65509f7e998b9a0ab3fbac6f5ae",
+      "ai_summary": "• Pedro Pascal is an actor.\n• Meryl Streep is an actress.\n• Catherine O'Hara was a Canadian comedian and actress.\n• She died in Los Angeles.\n• She was 71 years old."
+    },
+    {
+      "id": "d112e6b4b068fb05a78d984ddc56b69659c8f3c9",
+      "title": "Explosion in Iran’s Bandar Abbas caused by gas leak, official says",
+      "link": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss",
+      "summary": "Local fire official says gas leak likely caused blast that ripped through residential building in Iranian port city.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-01-31T17:26:52+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": null,
+      "content_hash": "9bfbdf68af48e62e6d28f4982bffc2c198caab86",
+      "ai_summary": "• A gas leak was likely caused the blast that ripped through a residential building in Bandar Abbas.\n• Residents were evacuated from the building on Moallem Boulevard area.\n• At least one person was killed and 14 others wounded.\n• The explosion destroyed two floors, several vehicles, and shops in the eight-storey building.\n• The Strait of Hormuz handles about a fifth of the world’s seaborne oil.\n• Bandar Abbas is home to Iran’s most important container port.\n• A major explosion in April of last year killed dozens of people and injured over 1,000 others at the port."
+    },
+    {
+      "id": "226d940170b9c0c0016090130a78059763600207",
+      "title": "NBA issues 76ers’ Paul George with 25-game ban for drug violation",
+      "link": "https://www.aljazeera.com/sports/2026/1/31/nba-issues-76ers-paul-george-with-25-game-ban-for-drug-violation?traffic_source=rss",
+      "summary": "NBA suspends Philadelphia 76ers&#039; nine-time All Star Paul George for 25 games for undisclosed anti-drug policy violation.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-01-31T17:22:38+00:00",
+      "tags": [
+        "politics"
+      ],
+      "image": null,
+      "content_hash": "966373aacad35acbeedffb159f478a33380d9101",
+      "ai_summary": "• Paul George has been suspended 25 games for violating the NBA's Anti-Drug Program.\n• The suspension will cost George $11.7m of his $51.7m salary.\n• Philadelphia entered Saturday at 26-21, sixth in the Eastern Conference.\n• The 76ers are 16-11 when George plays, 10-10 when he does not.\n• Paul George has averaged 16 points in 27 games this season for the 76ers."
+    },
+    {
+      "id": "7d47bf14cc506e78009345b9234aa493686b9758",
+      "title": "Milan protests decry ‘creeping fascism’ of ICE role at Winter Olympics",
+      "link": "https://www.aljazeera.com/sports/2026/1/31/milan-demonstrators-decry-creeping-fascism-of-ice-role-at-winter-olympics?traffic_source=rss",
+      "summary": "Demonstrators in Milan protest United State&#039;s ICE unit role at Milano-Cortina 2026 Winter Olympics.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-01-31T17:15:44+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": null,
+      "content_hash": "8c275c0b1d217d78f4917d0db21e069c2dbcfdad",
+      "ai_summary": "• Italy's liberation from Nazi fascism occurred on April 25, 1945.\n• The Winter Olympics are scheduled to take place in Milan.\n• Homeland Security Investigations frequently sends its officers to overseas events like the Olympics to assist with security."
+    },
+    {
+      "id": "debe4a9fe167390c179a7ed46d250898e34c18f8",
+      "title": "Real Madrid vs Rayo Vallecano: La Liga – teams, start, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/1/31/real-madrid-vs-rayo-vallecano-la-liga-teams-start-lineups?traffic_source=rss",
+      "summary": "Real Madrid&#039;s turbulent season continued with UCL defeat at Benfica in midweek but now focus returns to La Liga title.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-01-31T16:30:33+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": null,
+      "content_hash": "e751d27b6c62460ab43d82ffd4a02ffb1332595e",
+      "ai_summary": "• Real Madrid played at Benfica in the UEFA Champions League.\n• Barcelona are league leaders and defending champions.\n• Rayo Vallecano have only won five of their 21 La Liga matches this season.\n• Real Madrid have won 33 of their 47 meetings with Rayo Vallecano.\n• The sides last met in a La Liga match at Vallecano on November 9, ending in a 0-0 draw for Real.\n• Real Madrid ran out 2-1 winners in the La Liga match between the sides at Bernabeu last season."
+    },
+    {
+      "id": "8e616e78591ec18013a9be77a5c2f0122c63a93b",
+      "title": "Bill Gates, Elon Musk, Howard Lutnick face new scrutiny over Epstein ties",
+      "link": "https://www.aljazeera.com/news/2026/1/31/bill-gates-elon-musk-howard-lutnick-face-new-scrutiny-over-epstein-ties?traffic_source=rss",
+      "summary": "New files suggest the men had more extensive contact with Epstein than previously known.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-01-31T16:23:45+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": null,
+      "content_hash": "6a3da05a75650380df045ad0ad89f0ad77bcc559",
+      "ai_summary": "• The US Department of Justice released 3 million pages of investigative files concerning Jeffrey Epstein.\n• A draft email alleged Bill Gates had engaged in extramarital affairs and sought help procuring drugs.\n• The Gates Foundation denied the allegations as \"absolutely absurd and completely false\".\n• Emails from Elon Musk to Epstein show he actively pursued visits to Epstein's private Caribbean island between 2012 and 2013.\n• Trump's Commerce Secretary Howard Lutnick arranged to visit Epstein's island in December 2012.\n• A Department of Commerce spokesperson said Lutnick had \"limited interactions with Mr. Epstein in the presence of his wife and has never been accused of wrongdoing.\"\n• The Epstein Files Transparency Act was signed into law by Trump on November 19.\n• All Epstein-related documents held by the Justice Department are to be published by December 19."
+    },
+    {
+      "id": "a22c19bf0608d430bc933f83063ca9dd4999314d",
+      "title": "Musk's SpaceX applies to launch 1m satellites into orbit",
+      "link": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm wants to create a network of \"orbital data centres\" to power artificial intelligence.",
+      "source": "BBC",
+      "publishedAt": "2026-01-31T16:19:17+00:00",
+      "tags": [
+        "technology"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/647e/live/2eac0410-febb-11f0-9972-d3f265c101c6.jpg",
+      "content_hash": "7e28d8b10e29e9c9fd39ef62734f9fa719082e6f",
+      "ai_summary": "• SpaceX wants to launch 1 million satellites into orbit.\n• Musk aims to create an orbital data centre for artificial intelligence."
+    },
+    {
+      "id": "8bc387d8094165be8634ace02398701c6cb2ab4f",
+      "title": "Starmer invites Japan PM to UK after  Tokyo talks",
+      "link": "https://www.bbc.com/news/articles/c78egr5v5gmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sir Keir and Sanae Takaichi discussed ways to strengthen ties between their two nations during the meeting, at the end of the UK prime minister's trip to East Asia.",
+      "source": "BBC",
+      "publishedAt": "2026-01-31T15:32:27+00:00",
+      "tags": [
+        "politics"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/293a/live/5a7c8ca0-feab-11f0-b7e1-afb6d0884c18.jpg",
+      "content_hash": "6fa173a9c021bd55c1b90b2ad7fdd63579ff65ff",
+      "ai_summary": "• The UK Prime Minister met with Japanese Prime Minister Sanae Takaichi in Tokyo.\n• The meeting was part of the UK Prime Minister's trip to East Asia.\n• Sir Keir Starmer invited Japan PM to the UK after talks."
+    },
+    {
+      "id": "8ab9902a32d1b57d4867e4c2d9eb028f70db7214",
+      "title": "Pakistan beat Australia to seal cricket series in T20 World Cup warm-up",
+      "link": "https://www.aljazeera.com/sports/2026/1/31/pakistan-beat-australia-to-seal-cricket-series-in-t20-world-cup-warm-up?traffic_source=rss",
+      "summary": "Pakistan thump Australia by 90 runs in Lahore in second T20 of tour to seal three-match T20 series 2-0.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-01-31T15:25:41+00:00",
+      "tags": [
+        "sports"
+      ],
+      "image": null,
+      "content_hash": "2b0e35043a51e14e8432719a48adffd6d854948d",
+      "ai_summary": "• Pakistan's spin quintet shared all 10 wickets between them.\n• Abrar Ahmed returned the best figures of 3-14.\n• Australia were routed for 108 in 15.4 overs.\n• Pakistan made their highest-ever T20I total against Australia (198-5).\n• Usman Tariq took figures of 2-16.\n• Agha built the innings with Saim Ayub during a second-wicket stand of 55.\n• Babar Azam failed with a five-ball two."
+    },
     {
       "id": "60648ab9ec9c3f68d1491770b3ca5044de2c90c5",
       "title": "German football federation rules out World Cup boycott to oppose Trump",
@@ -16,18 +184,18 @@
       "ai_summary": "• The FIFA 2026 World Cup is co-hosted by the US.\n• A boycott of the tournament was first proposed by DFB Vice President Oke Gottlich last week.\n• Debates on sports policy should be conducted internally and not in public, according to the DFB.\n• Sepp Blatter opposed calls to boycott the 2018 World Cup in Russia over concerns about Ukraine."
     },
     {
-      "id": "036a746a66590a77b399e4606a6bebd5c030d285",
-      "title": "Israeli air strikes kill at least 28 Palestinians in Gaza, rescue officials say",
-      "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
+      "id": "ae02d0f67ac6a15bba5bc4d177de99fe32d4a9b8",
+      "title": "King surprises Parkrun joggers for second year in a row",
+      "link": "https://www.bbc.com/news/articles/c62vx7yx71ro?at_medium=RSS&at_campaign=rss",
+      "summary": "This is the second time the monarch has surprised joggers at a Parkrun on the royal estate.",
       "source": "BBC",
-      "publishedAt": "2026-01-31T15:01:53+00:00",
+      "publishedAt": "2026-01-31T15:07:33+00:00",
       "tags": [
-        "conflict"
+        "general"
       ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d5/live/cbf50f70-fe96-11f0-ae1d-b56660f38b59.jpg",
-      "content_hash": "3d949e97d1ae5c430e07cb4c317d734250080626",
-      "ai_summary": "• Israeli air strikes killed at least 28 Palestinians in Gaza.\n• A ceasefire between Israel and Hamas is currently in place.\n• The strikes occurred during this ceasefire."
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6505/live/7a91d0b0-fea9-11f0-8431-c5caf4139334.jpg",
+      "content_hash": "d3bc5f27fe4d5ec80b0bde94ac235b9a0fa138e5",
+      "ai_summary": "• King Charles III was present at Parkrun.\n• The king's surprise visit to Parkrun occurred on the same day as last year.\n• The event took place on the royal estate."
     },
     {
       "id": "502ed7d1a1c26fd447baee1bcf951de85815f89b",
@@ -107,7 +275,7 @@
       "source": "Al Jazeera",
       "publishedAt": "2026-01-31T13:27:29+00:00",
       "tags": [
-        "general"
+        "sports"
       ],
       "image": null,
       "content_hash": "395ed856c6e481ffa87f29e79bff2ba90b65c3fd",
@@ -156,20 +324,6 @@
       "ai_summary": "• Ukrainians face -20C temperatures.\n• Energy truce is in place.\n• Civilians struggle to keep warm."
     },
     {
-      "id": "92e4ece0e7026c11d5cf99a20fcbceea219916b9",
-      "title": "Student loan system 'fair and reasonable', says Reeves",
-      "link": "https://www.bbc.com/news/articles/ce3k4xdqyp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The chancellor's defence comes after Martin Lewis called her freeze on student loans \"not a moral thing\".",
-      "source": "BBC",
-      "publishedAt": "2026-01-31T11:49:27+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c88/live/5f098740-fe89-11f0-9170-c35ef8e78a2c.jpg",
-      "content_hash": "eda5b1753545a60f285457962bb17c97d0ebcf2e",
-      "ai_summary": "• Student loan system is considered fair and reasonable by Chancellor Reeves.\n• Martin Lewis has criticized the student loan system as \"not a moral thing\"."
-    },
-    {
       "id": "35d3d631e1006c1d26c8d74c803df9a48e6c413c",
       "title": "Rybakina shocks Sabalenka to win Australian Open tennis final",
       "link": "https://www.aljazeera.com/sports/2026/1/31/rybakina-shocks-sabalenka-to-win-australian-open-tennis-final?traffic_source=rss",
@@ -212,132 +366,6 @@
       "ai_summary": "• The Australian Open 2026 men's singles final is scheduled for Sunday, February 1 at 19:30 (08:30 GMT).\n• Novak Djokovic is seeking his 25th major title.\n• Margaret Court holds the record for most Grand Slam titles in the Open Era with 24 titles.\n• Carlos Alcaraz is looking to become the youngest player to complete a Career Grand Slam.\n• The Rod Laver Arena, Melbourne Park, Melbourne, Australia will host the final.\n• Alcaraz is the world number one.\n• Djokovic has won 101 career titles, while Alcaraz has won 24.\n• Djokovic has earned $191.2m in career prize money, while Alcaraz has earned $60m.\n• Djokovic turned pro in 2003, while Alcaraz turned pro in 2018.\n• Djokovic has won 24 Grand Slam titles, including 9 Australian Open titles.\n• Alcaraz has won the French Open twice (2024, 2025) and Wimbledon twice (2023, 2024)."
     },
     {
-      "id": "71b1d12422b401431daedde9ec1e5a276e34e643",
-      "title": "Why have rapper Ghali’s Israel comments led to Winter Olympics criticism?",
-      "link": "https://www.aljazeera.com/sports/2026/1/31/why-has-rapper-ghalis-israel-comments-led-to-winter-olympics-criticism?traffic_source=rss",
-      "summary": "The Milano-Cortina Winter Olympics open on Monday, but rapper Ghali&#039;s inclusion draws criticism in his native Italy.",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-01-31T10:39:24+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "8d8c4bb89fcb172cd4354b74d8e440a1c4619b0e",
-      "ai_summary": "• Italian rapper Ghali was born in Milan to Tunisian parents.\n• Members of Italy's right-wing League party have criticised Ghali's inclusion at the Winter Olympics.\n• The Milano Cortino Games will feature tenor Andrea Bocelli and US pop singer Mariah Carey alongside Ghali."
-    },
-    {
-      "id": "da0f5616cff44f9ebdcc3eb68ec79fd49f9d9334",
-      "title": "Judge blocks US gov’t move to end deportation protections for Ethiopians",
-      "link": "https://www.aljazeera.com/news/2026/1/31/judge-blocks-us-govt-move-to-end-deportation-protections-for-ethiopians?traffic_source=rss",
-      "summary": "Ruling delays February 13 deadline affecting 5,000 people amid wider legal challenges to Trump&#039;s immigration crackdown.",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-01-31T10:32:59+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "c5f158f7c64bc4c581d6faebbaea68be65fd0429",
-      "ai_summary": "• Judge Brian Murphy issued the order on Friday.\n• The ruling represents the latest legal setback to the administration’s broader push to end temporary protections.\n• The Department of Homeland Security was ordered to produce records explaining its decision-making process.\n• A 2022 ceasefire was declared in Tigray.\n• The Trump administration's actions were based on \"racist stereotyping\".\n• About 600,000 Venezuelans had protections terminated by the federal government."
-    },
-    {
-      "id": "7ee0a55734412bfb9a9fd54e72b2513e4663006a",
-      "title": "‘Like judgement day’: Sudanese doctor recounts escape from el-Fasher",
-      "link": "https://www.aljazeera.com/news/2026/1/31/like-judgment-day-sudanese-doctor-recounts-escape-from-el-fasher?traffic_source=rss",
-      "summary": "Physician who fled the city&#039;s last functioning hospital recounts RSF assault on the capital of North Darfur province.",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-01-31T10:08:54+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "79c6d9655f8a534e4b0ea269e4f647d12c27fb32",
-      "ai_summary": "• The Rapid Support Forces (RSF) assaulted the capital of North Darfur province in October.\n• The assault began on October 26 and lasted three days.\n• The Sudanese army's last stronghold in the province was under an 18-month siege before the assault.\n• The conflict between the RSF and the Sudanese army has been ongoing since April 2023.\n• Satellite imagery identified at least 150 clusters of objects consistent with human remains between October 26 and November 1.\n• Researchers documented systematic efforts to destroy evidence through burning and burial.\n• Thousands of people are unaccounted for after the fall of el-Fasher.\n• The International Organization for Migration reported that more than 26,000 people fled el-Fasher.\n• At least 106,387 people were displaced by late November following the October 26 takeover.\n• War crimes and crimes against humanity were committed in el-Fasher."
-    },
-    {
-      "id": "c711601c889f89fda1e6320c6f6b68b2c343c9fc",
-      "title": "Officials defend conditions at pre-Olympic race after Vonn crash",
-      "link": "https://www.aljazeera.com/sports/2026/1/31/officials-defend-conditions-at-pre-olympic-race-after-vonn-crash?traffic_source=rss",
-      "summary": "Crans-Montana event was cancelled after Linsey Vonn was third of first six skiers to crash, but race was deemed safe.",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-01-31T10:06:32+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "8d2af8da46a969942fccff403a92ed5795560aba",
-      "ai_summary": "• Lindsey Vonn crashed out of a World Cup downhill.\n• Three of the six starters failed to finish.\n• The light had dimmed since the 10am start.\n• Jacqueline Wiles barely made a tight final turn.\n• Marte Monsen crashed into fences due to tight turns into the finish line.\n• Patrice Morisod said that canceling a race is not an option for ski sport.\n• Gerdol stated that the course design will be reviewed before the 2027 world championships."
-    },
-    {
-      "id": "cbb58502458cd1ed8748bd28df99d15c4c4450f1",
-      "title": "Why attacking UNRWA is attacking Gaza’s survival",
-      "link": "https://www.aljazeera.com/opinions/2026/1/31/why-attacking-unrwa-is-attacking-gazas-survival?traffic_source=rss",
-      "summary": "The UN agency is able to provide much-needed services to the entire Strip at scale, but it is prevented from doing so.",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-01-31T09:55:45+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "80d06e7435ad5c6ac4b42915451ec4d43f439a30",
-      "ai_summary": "• The United Nations Relief and Works Agency (UNRWA) provides services to almost 100,000 people each week.\n• The agency distributes water and collects solid waste from entire communities in Gaza.\n• Over half of Gaza's population relies on UNRWA for its basic needs.\n• Seven UNRWA school compounds in eastern Gaza have been demolished by Israeli forces.\n• About 700,000 Palestinian children in Gaza are being systematically denied their right to education."
-    },
-    {
-      "id": "3de43e069e40d1aa5fa0365d73063ea5ef38e300",
-      "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
-      "link": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian comedic actress died in Los Angeles on Friday at the age of 71 following a brief illness.",
-      "source": "BBC",
-      "publishedAt": "2026-01-31T09:55:24+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c486/live/751149c0-fe88-11f0-a8b8-bdd2c5f9bcad.jpg",
-      "content_hash": "9a5b144481b3e65509f7e998b9a0ab3fbac6f5ae",
-      "ai_summary": "• Pedro Pascal is an actor.\n• Meryl Streep is an actress.\n• Catherine O'Hara was a Canadian comedian and actress.\n• She died in Los Angeles.\n• She was 71 years old."
-    },
-    {
-      "id": "2b90d4df2887519d983cbe467f5a8f97c9c6d0f2",
-      "title": "Iran’s president says Trump, Netanyahu, EU stirred tensions during protests",
-      "link": "https://www.aljazeera.com/news/2026/1/31/irans-president-says-trump-netanyahu-eu-stirred-tensions-during-protests?traffic_source=rss",
-      "summary": "Masoud Pezeshkian says foreign powers &#039;took advantage&#039; of the country&#039;s problems and &#039;provoked&#039; society.",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-01-31T09:26:58+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "6e032925f642fae328e508e3efc4d76376a224fe",
-      "ai_summary": "• The protests resulted in more than 3,000 deaths.\n• Rights groups estimate the actual death toll is likely in the tens of thousands.\n• A US naval strike group has been in Middle Eastern waters since Monday.\n• Trump warned it was \"ready, willing and able\" to hit Iran \"if necessary\".\n• Iranian Foreign Minister Abbas Araghchi said Iran is ready for \"fair and equitable\" talks with the US.\n• The US announced sanctions against Iran's interior minister and other officials over protests."
-    },
-    {
-      "id": "a826cb83a269db70fe19995785ed3273b87d4c1f",
-      "title": "Has Brexit achieved its objectives six years on?",
-      "link": "https://www.aljazeera.com/video/money-works/2026/1/31/has-brexit-achieved-its-objectives-six-years-on?traffic_source=rss",
-      "summary": "Six years after leaving the EU, has it achieved its objectives?",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-01-31T09:12:25+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "b0d8e0f79aef77ea856c0f8e1903d64491154306",
-      "ai_summary": "• Has Brexit achieved its objectives six years on.\n• The UK left the EU in 2020."
-    },
-    {
-      "id": "e5ead6e87eb9ead7f0d8396aecfbccba2b427b65",
-      "title": "Israel split over plans to bring back death penalty for deadly attacks",
-      "link": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a highly controversial move, some Israeli MPs are trying to introduce the death penalty for Palestinian attackers.",
-      "source": "BBC",
-      "publishedAt": "2026-01-31T06:09:39+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54c/live/735badb0-fe8c-11f0-a8b8-bdd2c5f9bcad.png",
-      "content_hash": "37c5161d1d0ad32d704bec916ad94bb24d79783d",
-      "ai_summary": "• Israel is divided on the issue of introducing the death penalty for Palestinian attackers.\n• Some Israeli MPs have proposed bringing back the death penalty for such attacks.\n• The proposal has sparked controversy and debate in Israel."
-    },
-    {
       "id": "310c58849791d125343b1ae51ff9ba18c4a3fa43",
       "title": "What we learned - and didn't - from the Melania documentary",
       "link": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
@@ -350,20 +378,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b660/live/c0e8c9e0-fe47-11f0-9972-d3f265c101c6.jpg",
       "content_hash": "263fca4b0219a62b731d44275c0c4fd941ce92a3",
       "ai_summary": "• The documentary is directed by Brett Ratner.\n• It was released in 2021.\n• The film features footage of Melania Trump."
-    },
-    {
-      "id": "f32d7285cd5fe3647bd6ff286e3a7b89be7e7288",
-      "title": "How to minimise airline add-on fees - after easyJet faced criticism",
-      "link": "https://www.bbc.com/news/articles/c5y28w0de91o?at_medium=RSS&at_campaign=rss",
-      "summary": "Don't get swept into paying for extras you don't need.",
-      "source": "BBC",
-      "publishedAt": "2026-01-31T02:30:04+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c5/live/1da61170-fd02-11f0-9200-e148478a5756.jpg",
-      "content_hash": "a0f837f137927874978879d36507a4f704903202",
-      "ai_summary": "• EasyJet is facing criticism over its airline add-on fees.\n• Airlines often charge extra fees for services like checked bags and food.\n• Some airlines offer discounts or promotions to customers who book in advance.\n• EasyJet has faced criticism for charging high prices for these services."
     },
     {
       "id": "f73cb7906203520b387f0cfa14c1951d53359af0",
@@ -394,32 +408,18 @@
       "ai_summary": "• The world tour by Harry Styles has ended.\n• Some artists, like Ariana Grande, prefer longer residencies over extensive tours."
     },
     {
-      "id": "4632856fddf67757530ee12ac9798aaa3cefab2f",
-      "title": "I mocked the Saudi leader on YouTube - then my phone was hacked and I was beaten up in London",
-      "link": "https://www.bbc.com/news/articles/cj6w3zgden0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Satirist Ghanem al-Masarir has been awarded £3m in damages, but it's unclear if Saudi Arabia will pay.",
+      "id": "64d72079a3c8b718344cbd74e0bf3757eaca276b",
+      "title": "One wrong move and it could all go wrong - the men clearing deadly undersea Russian mines",
+      "link": "https://www.bbc.com/news/articles/c70lgwprw7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A team of divers are tasked with de-mining parts of the Black Sea still under Ukraine's control.",
       "source": "BBC",
-      "publishedAt": "2026-01-31T00:50:39+00:00",
+      "publishedAt": "2026-01-31T00:19:00+00:00",
       "tags": [
         "general"
       ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a115/live/e3a428a0-fc8d-11f0-9972-d3f265c101c6.jpg",
-      "content_hash": "3babdd9ff1dfeb4f22ed6db2a8be584da59c1b54",
-      "ai_summary": "• The Saudi leader is being sued for mocking him on YouTube.\n• A British man was beaten up in London after his phone was hacked.\n• Ghanem al-Masarir has won £3m in damages from the Saudi leader."
-    },
-    {
-      "id": "d5bc40e4253b0fc7dfa1717ae02c9409923efbe4",
-      "title": "This tiny town is up for sale - but the locals don't want to leave",
-      "link": "https://www.bbc.com/news/articles/c3wz49z6gyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents say the sale of Licola - population, five - jeopardises its future.",
-      "source": "BBC",
-      "publishedAt": "2026-01-30T19:02:00+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e5/live/294f47f0-f8eb-11f0-b385-5f48925de19a.jpg",
-      "content_hash": "dc489a54c33e9b78441b0d3b8281d4166b566f03",
-      "ai_summary": "• The town has a population of five residents.\n• The town is called Licola.\n• It is located in Australia."
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4173/live/3a3a3fc0-fe9a-11f0-b7e1-afb6d0884c18.png",
+      "content_hash": "ed51cb23d49bc6b8c6d4520880a5ef98de0f789c",
+      "ai_summary": "• One wrong move and it could all go wrong\n• The men clearing deadly undersea Russian mines\n• A team of divers is tasked with de-mining parts of the Black Sea"
     }
   ]
 }
