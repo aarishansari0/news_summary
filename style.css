@@ -1,5 +1,5 @@
 :root {
-  --bg: #000000;
+  --bg: #000;
   --card: #0f0f0f;
   --border: #1f1f1f;
   --text: #ffffff;
@@ -16,6 +16,8 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
+  display: flex;
+  justify-content: center;
   font-family: system-ui, -apple-system, sans-serif;
 }
 
@@ -36,15 +38,22 @@ header h1 {
 }
 
 main {
-  max-width: 1100px;
+  max-width: 900px;   /* narrower = more centered feel */
   margin: auto;
-  padding: 2rem 1rem;
+  padding: 2.5rem 1rem;
 }
 
+
+/* ARTICLE CARD */
+.page {
+  width: 100%;
+  max-width: 980px;
+}
 .card {
   display: grid;
   grid-template-columns: 280px 1fr;
   gap: 1.25rem;
+
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: 14px;
@@ -115,7 +124,16 @@ main {
   text-decoration: underline;
 }
 
-/* Responsive */
+/* Loading fallback */
+#news:empty::before {
+  content: "Loading news…";
+  color: var(--muted);
+  display: block;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* Mobile */
 @media (max-width: 768px) {
   .card {
     grid-template-columns: 1fr;
