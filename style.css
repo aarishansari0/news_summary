@@ -165,21 +165,21 @@ main {
 /* Mobile */
 @media (max-width: 768px) {
   .card {
-    grid-template-columns: 1fr;
+    display: flex;          /* 🔥 OVERRIDE GRID */
+    flex-direction: column;
     padding: 0;
     overflow: hidden;
   }
 
   .card img {
-    grid-column: 1 / -1;
     width: 100%;
-    height: 220px;
+    height: 240px;
     object-fit: cover;
     border-radius: 0;
+    display: block;
   }
 
   .content {
-    grid-column: 1 / -1;
     padding: 1rem 1.25rem 1.25rem;
   }
 }
