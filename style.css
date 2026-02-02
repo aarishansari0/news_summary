@@ -179,8 +179,22 @@ main {
 
 /* Mobile */
 @media (max-width: 768px) {
-  body {
-    background: hotpink !important;
+  .card {
+    display: flex;          /* 🔥 OVERRIDE GRID */
+    flex-direction: column;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .card img {
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+    border-radius: 0;
+    display: block;
+  }
+
+  .content {
+    padding: 1rem 1.25rem 1.25rem;
   }
 }
-
