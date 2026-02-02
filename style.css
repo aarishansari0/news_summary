@@ -112,6 +112,35 @@ main {
   margin-right: 0.4rem;
 }
 
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+.filter {
+  background: #0f172a;
+  color: #cbd5f5;
+  border: 1px solid #1e293b;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.filter:hover {
+  background: #1e293b;
+}
+
+.filter.active {
+  background: var(--accent);
+  color: #000;
+  border-color: var(--accent);
+}
+
+
 .read {
   display: inline-block;
   margin-top: 0.75rem;
@@ -137,9 +166,24 @@ main {
 @media (max-width: 768px) {
   .card {
     grid-template-columns: 1fr;
+    padding: 0;
+    overflow: hidden;
   }
 
   .card img {
-    height: 200px;
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 0;
+  }
+
+  .content {
+    padding: 1rem 1.25rem 1.25rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .card img {
+    height: 260px;
   }
 }

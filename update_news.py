@@ -23,7 +23,9 @@ if os.path.exists("news.json"):
 RSS_FEEDS = {
     "Reuters": "https://feeds.reuters.com/reuters/topNews",
     "BBC": "http://feeds.bbci.co.uk/news/rss.xml",
-    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml"
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "Times of India (India News)": "https://timesofindia.indiatimes.com/rss.cms",
+    "Hindustan Times (India News)": "https://www.hindustantimes.com/feeds/rss/latest/rssfeed.xml"
 }
 
 TAG_RULES = {
@@ -246,7 +248,7 @@ def extract_tags(title, summary):
 for source, url in RSS_FEEDS.items():
     feed = feedparser.parse(url)
     i=1
-    for entry in feed.entries[:15]:  # limit per source
+    for entry in feed.entries[:20]:  # limit per source
 
         published = entry.get("published", "")
         try:

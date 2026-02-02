@@ -1,0 +1,376 @@
+=== News update run at Sun Feb  1 09:16:46 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 1, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+No changes in news.json
+=== News update run at Sun Feb  1 09:48:02 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 1, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+No changes in news.json
+=== News update run at Sun Feb  1 09:48:02 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 1, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+No changes in news.json
+=== News update run at Sun Feb  1 11:05:01 PM IST 2026 ===
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 262, in <module>
+    full_text = fetch_full_article(entry.link)
+  File "/home/aarish/news_app/update_news.py", line 135, in fetch_full_article
+    article.download()
+    ~~~~~~~~~~~~~~~~^^
+  File "/home/aarish/.local/lib/python3.14/site-packages/newspaper/article.py", line 170, in download
+    html = network.get_html_2XX_only(self.url, self.config)
+  File "/home/aarish/.local/lib/python3.14/site-packages/newspaper/network.py", line 62, in get_html_2XX_only
+    response = requests.get(
+        url=url, **get_request_kwargs(timeout, useragent, proxies, headers))
+  File "/usr/lib/python3.14/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/usr/lib/python3.14/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.14/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.14/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/usr/lib/python3.14/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/usr/lib/python3.14/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/usr/lib/python3.14/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "/usr/lib/python3.14/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.14/socket.py", line 983, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+=== News update run at Sun Feb  1 11:05:54 PM IST 2026 ===
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+done articlenumber 1
+done articlenumber 2
+Traceback (most recent call last):
+  File "/usr/lib/python3.14/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/usr/lib/python3.14/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/http11.py", line 136, in handle_request
+    raise exc
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/http11.py", line 231, in _receive_event
+    raise RemoteProtocolError(msg)
+httpcore.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 270, in <module>
+    partial = summarize_chunks(chunks, model)
+  File "/home/aarish/news_app/update_news.py", line 190, in summarize_chunks
+    raw = summarize(chunk, model)
+  File "/home/aarish/news_app/update_news.py", line 172, in summarize
+    response = ollama.chat(
+        model=model,
+    ...<8 lines>...
+        }
+    )
+  File "/home/aarish/.local/lib/python3.14/site-packages/ollama/_client.py", line 365, in chat
+    return self._request(
+           ~~~~~~~~~~~~~^
+      ChatResponse,
+      ^^^^^^^^^^^^^
+    ...<14 lines>...
+      stream=stream,
+      ^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aarish/.local/lib/python3.14/site-packages/ollama/_client.py", line 189, in _request
+    return cls(**self._request_raw(*args, **kwargs).json())
+                 ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/aarish/.local/lib/python3.14/site-packages/ollama/_client.py", line 129, in _request_raw
+    r = self._client.request(*args, **kwargs)
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/usr/lib/python3.14/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.14/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/usr/lib/python3.14/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.RemoteProtocolError: Server disconnected without sending a response.
+No changes in news.json
+=== News update run at Sun Feb  1 11:26:32 PM IST 2026 ===
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 270, in <module>
+    partial = summarize_chunks(chunks, model)
+  File "/home/aarish/news_app/update_news.py", line 190, in summarize_chunks
+    raw = summarize(chunk, model)
+  File "/home/aarish/news_app/update_news.py", line 172, in summarize
+    response = ollama.chat(
+        model=model,
+    ...<8 lines>...
+        }
+    )
+  File "/home/aarish/.local/lib/python3.14/site-packages/ollama/_client.py", line 365, in chat
+    return self._request(
+           ~~~~~~~~~~~~~^
+      ChatResponse,
+      ^^^^^^^^^^^^^
+    ...<14 lines>...
+      stream=stream,
+      ^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aarish/.local/lib/python3.14/site-packages/ollama/_client.py", line 189, in _request
+    return cls(**self._request_raw(*args, **kwargs).json())
+                 ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/aarish/.local/lib/python3.14/site-packages/ollama/_client.py", line 129, in _request_raw
+    r = self._client.request(*args, **kwargs)
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/usr/lib/python3.14/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/usr/lib/python3.14/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/http11.py", line 136, in handle_request
+    raise exc
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "/usr/lib/python3.14/site-packages/httpcore/_sync/http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+        self.READ_NUM_BYTES, timeout=timeout
+    )
+  File "/usr/lib/python3.14/site-packages/httpcore/_backends/sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyboardInterrupt
+=== News update run at Sun Feb  1 11:31:51 PM IST 2026 ===
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+Saved 30 articles
+date: extra operand ‘%F’
+Try 'date --help' for more information.
+[main 531f713] Daily news update -
+ 1 file changed, 256 insertions(+), 256 deletions(-)
+To https://github.com/aarishansari0/news_summary.git
+   ef500f4..531f713  main -> main
+=== News update run at Mon Feb  2 01:26:35 AM IST 2026 ===
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/c3015q8jqero?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e369fb110>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/c3015q8jqero?at_medium=RSS&at_campaign=rss
+done articlenumber 5
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/cedw7y680e6o?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e369fafd0>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/cedw7y680e6o?at_medium=RSS&at_campaign=rss
+done articlenumber 6
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e36828190>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss
+done articlenumber 7
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/cwy12z197q8o?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e368291d0>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/cwy12z197q8o?at_medium=RSS&at_campaign=rss
+done articlenumber 8
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/ce8g7ymq959o?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e3682a0d0>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/ce8g7ymq959o?at_medium=RSS&at_campaign=rss
+done articlenumber 9
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/cn40kmrkk9xo?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e3682a710>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/cn40kmrkk9xo?at_medium=RSS&at_campaign=rss
+done articlenumber 10
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/videos/cddgvy8jjq0o?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e3682a490>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/videos/cddgvy8jjq0o?at_medium=RSS&at_campaign=rss
+done articlenumber 11
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/c0mk3v2k3r0o?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e3682ac10>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/c0mk3v2k3r0o?at_medium=RSS&at_campaign=rss
+done articlenumber 12
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e3682afd0>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss
+done articlenumber 13
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news/articles/cyv5z76jmpvo?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e3682b390>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/news/articles/cyv5z76jmpvo?at_medium=RSS&at_campaign=rss
+done articlenumber 14
+Failed to fetch article: Article `download()` failed with HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /sport/tennis/articles/c4gvy382jg9o?at_medium=RSS&at_campaign=rss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e3682b750>: Failed to resolve 'www.bbc.com' ([Errno -3] Temporary failure in name resolution)")) on URL https://www.bbc.com/sport/tennis/articles/c4gvy382jg9o?at_medium=RSS&at_campaign=rss
+done articlenumber 15
+Saved 15 articles
+date: extra operand ‘%F’
+Try 'date --help' for more information.
+[main dba4ba1] Daily news update -
+ 1 file changed, 37 insertions(+), 247 deletions(-)
+fatal: unable to access 'https://github.com/aarishansari0/news_summary.git/': Could not resolve host: github.com
+=== News update run at Mon Feb  2 02:05:07 AM IST 2026 ===
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+Saved 30 articles
+date: extra operand ‘%F’
+Try 'date --help' for more information.
+[main 9fd4acb] Daily news update -
+ 1 file changed, 232 insertions(+), 22 deletions(-)
+To https://github.com/aarishansari0/news_summary.git
+   531f713..9fd4acb  main -> main
