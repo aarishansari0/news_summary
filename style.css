@@ -16,10 +16,9 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  display: flex;
-  justify-content: center;
   font-family: system-ui, -apple-system, sans-serif;
 }
+
 
 header {
   text-align: center;
@@ -48,7 +47,9 @@ main {
 .page {
   width: 100%;
   max-width: 980px;
+  margin: 0 auto;   /* ✅ THIS is how you center pages */
 }
+
 .card {
   display: grid;
   grid-template-columns: 280px 1fr;
