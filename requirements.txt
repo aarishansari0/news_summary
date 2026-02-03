@@ -1,0 +1,4 @@
+newspaper3k
+ollama
+feedparser==6.0.12
+sgmllib3k==1.0.0

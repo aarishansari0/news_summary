@@ -374,3 +374,21 @@ Try 'date --help' for more information.
  1 file changed, 232 insertions(+), 22 deletions(-)
 To https://github.com/aarishansari0/news_summary.git
    531f713..9fd4acb  main -> main
+=== News update run at Tue Feb  3 11:55:06 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 1, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+No changes in news.json
+=== News update run at Tue Feb  3 11:55:06 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 1, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+No changes in news.json
+=== News update run at Tue Feb  3 11:55:42 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 1, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+No changes in news.json

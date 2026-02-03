@@ -1,8 +1,9 @@
 #!/bin/bash
-
-cd /home/aarish/news_app || exit 1
 exec >> /home/aarish/news_app/anacron.log 2>&1
 echo "=== News update run at $(date) ==="
+
+cd /home/aarish/news_app || { echo "cd failed"; exit 1; }
+
 
 # Run the updater
 python3 update_news.py
