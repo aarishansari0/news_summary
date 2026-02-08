@@ -392,3 +392,436 @@ Traceback (most recent call last):
     import feedparser
 ModuleNotFoundError: No module named 'feedparser'
 No changes in news.json
+=== News update run at Wed Feb  4 03:07:09 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+ModuleNotFoundError: No module named 'newspaper'
+No changes in news.json
+=== News update run at Wed Feb  4 03:07:10 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+ModuleNotFoundError: No module named 'newspaper'
+No changes in news.json
+=== News update run at Wed Feb  4 03:15:32 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+=== News update run at Wed Feb  4 03:16:57 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+=== News update run at Wed Feb  4 03:18:42 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+=== News update run at Wed Feb  4 03:21:39 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+=== News update run at Wed Feb  4 03:21:54 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+=== News update run at Wed Feb  4 03:26:04 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+=== News update run at Wed Feb  4 03:29:02 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+=== News update run at Wed Feb  4 03:29:03 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+=== News update run at Wed Feb  4 03:33:38 PM IST 2026 ===
+=== News update run at Wed Feb  4 03:33:38 PM IST 2026 ===
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+Traceback (most recent call last):
+  File "/home/aarish/news_app/update_news.py", line 8, in <module>
+    from newspaper import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/__init__.py", line 10, in <module>
+    from .api import (build, build_article, fulltext, hot, languages,
+                      popular_urls, Configuration as Config)
+  File "/usr/local/lib/python3.14/site-packages/newspaper/api.py", line 14, in <module>
+    from .article import Article
+  File "/usr/local/lib/python3.14/site-packages/newspaper/article.py", line 15, in <module>
+    from . import network
+  File "/usr/local/lib/python3.14/site-packages/newspaper/network.py", line 14, in <module>
+    from .configuration import Configuration
+  File "/usr/local/lib/python3.14/site-packages/newspaper/configuration.py", line 15, in <module>
+    from .parsers import Parser
+  File "/usr/local/lib/python3.14/site-packages/newspaper/parsers.py", line 12, in <module>
+    import lxml.html.clean
+  File "/usr/lib64/python3.14/site-packages/lxml/html/clean.py", line 18, in <module>
+    raise ImportError(
+    ...<2 lines>...
+    ) from None
+ImportError: lxml.html.clean module is now a separate project lxml_html_clean.
+Install lxml[html_clean] or lxml_html_clean directly.
+No changes in news.json
+No changes in news.json
+]0;aarish@fedora:~/news_app]3008;end=a6604c8a-6887-4750-8b35-f31323beb2c2;exit=success\]3008;start=ffad4600-45b6-496c-a626-4d9081991779;user=aarish;hostname=fedora;machineid=48d15d424c7246bfa6f2b6c35886b509;bootid=263d0475-c369-4338-af2a-1823f8820f3f;pid=7367;type=shell;cwd=/home/aarish/news_app\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]7;file://fedora/home/aarish/news_app\[?2004h]133;D;0\]133;A\[0m[32maarish@fedora[0m:[32m~/news_app[0m$ ]133;B\^C[?2004l[?2004h[?2004l
+]0;aarish@fedora:~/news_app]3008;end=7d86840c-adc1-43a0-b127-e989da05694b;exit=interrupt;signal=3\]3008;start=ffad4600-45b6-496c-a626-4d9081991779;user=aarish;hostname=fedora;machineid=48d15d424c7246bfa6f2b6c35886b509;bootid=263d0475-c369-4338-af2a-1823f8820f3f;pid=7367;type=shell;cwd=/home/aarish/news_app\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]7;file://fedora/home/aarish/news_app\[?2004h]133;D;130\]133;A\[0m[32maarish@fedora[0m:[32m~/news_app[0m$ ]133;B\^C[?2004l[?2004h[?2004l
+]0;aarish@fedora:~/news_app]3008;end=15b6aeba-2c5f-4bdd-9cb0-166c8e24caa6;exit=interrupt;signal=3\]3008;start=ffad4600-45b6-496c-a626-4d9081991779;user=aarish;hostname=fedora;machineid=48d15d424c7246bfa6f2b6c35886b509;bootid=263d0475-c369-4338-af2a-1823f8820f3f;pid=7367;type=shell;cwd=/home/aarish/news_app\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]7;file://fedora/home/aarish/news_app\[?2004h]133;D;130\]133;A\[0m[32maarish@fedora[0m:[32m~/news_app[0m$ ]133;B\^C[?2004l[?2004h[?2004l
+]0;aarish@fedora:~/news_app]3008;end=5eff8050-7576-435c-aac4-8d002f2a2a22;exit=interrupt;signal=3\]3008;start=ffad4600-45b6-496c-a626-4d9081991779;user=aarish;hostname=fedora;machineid=48d15d424c7246bfa6f2b6c35886b509;bootid=263d0475-c369-4338-af2a-1823f8820f3f;pid=7367;type=shell;cwd=/home/aarish/news_app\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]7;file://fedora/home/aarish/news_app\[?2004h]133;D;130\]133;A\[0m[32maarish@fedora[0m:[32m~/news_app[0m$ ]133;B\^C[?2004l[?2004h[?2004l
+]0;aarish@fedora:~/news_app]3008;end=a36c8b13-b868-45d1-b800-e4668f4a1061;exit=interrupt;signal=3\]3008;start=ffad4600-45b6-496c-a626-4d9081991779;user=aarish;hostname=fedora;machineid=48d15d424c7246bfa6f2b6c35886b509;bootid=263d0475-c369-4338-af2a-1823f8820f3f;pid=7367;type=shell;cwd=/home/aarish/news_app\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]7;file://fedora/home/aarish/news_app\[?2004h]133;D;130\]133;A\[0m[32maarish@fedora[0m:[32m~/news_app[0m$ ]133;B\[?2004l[?2004h[?2004l
+=== News update run at Sat Feb  7 11:31:01 PM IST 2026 ===
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+done articlenumber 16
+done articlenumber 17
+done articlenumber 18
+done articlenumber 19
+done articlenumber 20
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+done articlenumber 16
+done articlenumber 17
+done articlenumber 18
+done articlenumber 19
+done articlenumber 20
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cricket/suryas-brilliance-gives-jittery-india-a-win-over-usa-101770486832404.html on URL https://www.hindustantimes.com/cricket/suryas-brilliance-gives-jittery-india-a-win-over-usa-101770486832404.html
+done articlenumber 1
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/trending/imprisoned-by-a-cold-snap-anand-mahindra-shares-photo-as-extreme-cold-grips-new-york-101770485576830.html on URL https://www.hindustantimes.com/trending/imprisoned-by-a-cold-snap-anand-mahindra-shares-photo-as-extreme-cold-grips-new-york-101770485576830.html
+done articlenumber 2
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/photos/ind-vs-usa-t20-wc-2026-suryakumar-yadav-leads-from-the-front-as-ind-avoid-slip-up-against-usa-see-action-in-pictures-101770484628004.html on URL https://www.hindustantimes.com/photos/ind-vs-usa-t20-wc-2026-suryakumar-yadav-leads-from-the-front-as-ind-avoid-slip-up-against-usa-see-action-in-pictures-101770484628004.html
+done articlenumber 3
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/became-so-violent-ravneet-singh-bittu-recalls-rahul-gandhis-traitor-barb-at-parliament-101770475011048.html on URL https://www.hindustantimes.com/india-news/became-so-violent-ravneet-singh-bittu-recalls-rahul-gandhis-traitor-barb-at-parliament-101770475011048.html
+done articlenumber 4
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cities/chandigarh-news/himachal-govt-prepones-budget-session-to-discuss-rdg-halt-implications-101770485331572.html on URL https://www.hindustantimes.com/cities/chandigarh-news/himachal-govt-prepones-budget-session-to-discuss-rdg-halt-implications-101770485331572.html
+done articlenumber 5
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/opinion/what-india-can-expect-from-the-us-trade-deal-101770485273942.html on URL https://www.hindustantimes.com/opinion/what-india-can-expect-from-the-us-trade-deal-101770485273942.html
+done articlenumber 6
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/opinion/seeing-places-anew-as-a-traveller-of-means-101770485271775.html on URL https://www.hindustantimes.com/opinion/seeing-places-anew-as-a-traveller-of-means-101770485271775.html
+done articlenumber 7
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/opinion/giving-voice-to-sanitation-advocacy-through-radio-101770485272131.html on URL https://www.hindustantimes.com/opinion/giving-voice-to-sanitation-advocacy-through-radio-101770485272131.html
+done articlenumber 8
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/world-news/us-news/terrance-gore-family-and-net-worth-all-we-know-about-former-mlb-pinch-runners-wife-and-kids-101770484098077.html on URL https://www.hindustantimes.com/world-news/us-news/terrance-gore-family-and-net-worth-all-we-know-about-former-mlb-pinch-runners-wife-and-kids-101770484098077.html
+done articlenumber 9
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/opinion/the-shakespeare-in-our-everyday-speech-101770485211663.html on URL https://www.hindustantimes.com/opinion/the-shakespeare-in-our-everyday-speech-101770485211663.html
+done articlenumber 10
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/7-injured-several-feared-trapped-after-building-collapses-in-rajasthans-kota-101770484462950.html on URL https://www.hindustantimes.com/india-news/7-injured-several-feared-trapped-after-building-collapses-in-rajasthans-kota-101770484462950.html
+done articlenumber 11
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/htcity/cinema/exclusive-shriya-pilgaonkar-on-the-magic-of-mumbai-s-own-cherry-blossoms-101770484019964.html on URL https://www.hindustantimes.com/htcity/cinema/exclusive-shriya-pilgaonkar-on-the-magic-of-mumbai-s-own-cherry-blossoms-101770484019964.html
+done articlenumber 12
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cities/others/body-of-fisherman-who-died-in-pak-jail-reaches-his-hometown-in-gujarat-101770484588814.html on URL https://www.hindustantimes.com/cities/others/body-of-fisherman-who-died-in-pak-jail-reaches-his-hometown-in-gujarat-101770484588814.html
+done articlenumber 13
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/world-news/terrance-gores-cause-of-death-how-did-world-series-winning-outfielder-die-at-34-101770483677659.html on URL https://www.hindustantimes.com/world-news/terrance-gores-cause-of-death-how-did-world-series-winning-outfielder-die-at-34-101770483677659.html
+done articlenumber 14
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/amid-ghaziabad-minors-death-police-finds-fathers-live-in-partner-died-of-suicide-in-2015-101770483341640.html on URL https://www.hindustantimes.com/india-news/amid-ghaziabad-minors-death-police-finds-fathers-live-in-partner-died-of-suicide-in-2015-101770483341640.html
+done articlenumber 15
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/1-held-in-aap-leaders-murder-case-following-exchange-of-fire-in-amritsar-punjab-police-101770482976073.html on URL https://www.hindustantimes.com/india-news/1-held-in-aap-leaders-murder-case-following-exchange-of-fire-in-amritsar-punjab-police-101770482976073.html
+done articlenumber 16
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/world-news/us-news/arvada-fire-massive-blaze-reported-near-colorado-highways-93-and-72-pre-evacuation-notice-issued-for-candelas-101770482899655.html on URL https://www.hindustantimes.com/world-news/us-news/arvada-fire-massive-blaze-reported-near-colorado-highways-93-and-72-pre-evacuation-notice-issued-for-candelas-101770482899655.html
+done articlenumber 17
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/htcity/cinema/exclusive-rhea-chakraborty-the-years-when-noone-wanted-to-work-with-me-were-painful-101770482219285.html on URL https://www.hindustantimes.com/htcity/cinema/exclusive-rhea-chakraborty-the-years-when-noone-wanted-to-work-with-me-were-painful-101770482219285.html
+done articlenumber 18
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cricket/t20-world-cup-romario-shepherd-hat-trick-hetmyer-fifty-set-up-west-indies-win-101770483231340.html on URL https://www.hindustantimes.com/cricket/t20-world-cup-romario-shepherd-hat-trick-hetmyer-fifty-set-up-west-indies-win-101770483231340.html
+done articlenumber 19
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cities/delhi-news/minor-among-four-apprehended-for-stabbing-man-during-neighbourhood-brawl-in-central-delhi-101770483228014.html on URL https://www.hindustantimes.com/cities/delhi-news/minor-among-four-apprehended-for-stabbing-man-during-neighbourhood-brawl-in-central-delhi-101770483228014.html
+done articlenumber 20
+Saved 60 articles
+date: extra operand ‘%F’
+Try 'date --help' for more information.
+[main 37cbcec] Daily news update -
+ 1 file changed, 524 insertions(+), 524 deletions(-)
+To https://github.com/aarishansari0/news_summary.git
+   a1e54f1..37cbcec  main -> main
+=== News update run at Sun Feb  8 07:33:32 PM IST 2026 ===
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+done articlenumber 16
+done articlenumber 17
+done articlenumber 18
+done articlenumber 19
+done articlenumber 20
+done articlenumber 1
+done articlenumber 2
+done articlenumber 3
+done articlenumber 4
+done articlenumber 5
+done articlenumber 6
+done articlenumber 7
+done articlenumber 8
+done articlenumber 9
+done articlenumber 10
+done articlenumber 11
+done articlenumber 12
+done articlenumber 13
+done articlenumber 14
+done articlenumber 15
+done articlenumber 16
+done articlenumber 17
+done articlenumber 18
+done articlenumber 19
+done articlenumber 20
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/lifestyle/fashion/meghan-markle-stuns-in-classy-strapless-gown-at-the-2026-fifteen-percent-pledge-gala-see-video-101770556618513.html on URL https://www.hindustantimes.com/lifestyle/fashion/meghan-markle-stuns-in-classy-strapless-gown-at-the-2026-fifteen-percent-pledge-gala-see-video-101770556618513.html
+done articlenumber 1
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/opinion/indiaus-trade-deal-and-international-law-101770558383380.html on URL https://www.hindustantimes.com/opinion/indiaus-trade-deal-and-international-law-101770558383380.html
+done articlenumber 2
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/opinion/balancing-strategic-alignment-with-economic-nationalism-101770558140278.html on URL https://www.hindustantimes.com/opinion/balancing-strategic-alignment-with-economic-nationalism-101770558140278.html
+done articlenumber 3
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cities/lucknow-news/ajit-pawar-s-ashes-immersed-in-sangam-son-performs-rituals-101770558139490.html on URL https://www.hindustantimes.com/cities/lucknow-news/ajit-pawar-s-ashes-immersed-in-sangam-son-performs-rituals-101770558139490.html
+done articlenumber 4
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cities/lucknow-news/lucknow-traffic-cops-trained-to-recognise-early-signs-of-fatigue-burnout-101770558137766.html on URL https://www.hindustantimes.com/cities/lucknow-news/lucknow-traffic-cops-trained-to-recognise-early-signs-of-fatigue-burnout-101770558137766.html
+done articlenumber 5
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cities/others/gujarat-spice-racket-busted-in-mehsana-five-held-for-stealing-cumin-worth-rs-3-cr-101770558058639.html on URL https://www.hindustantimes.com/cities/others/gujarat-spice-racket-busted-in-mehsana-five-held-for-stealing-cumin-worth-rs-3-cr-101770558058639.html
+done articlenumber 6
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/real-estate/mhada-pune-board-to-hold-draw-for-4-186-housing-units-on-feb-10-101770557361493.html on URL https://www.hindustantimes.com/real-estate/mhada-pune-board-to-hold-draw-for-4-186-housing-units-on-feb-10-101770557361493.html
+done articlenumber 7
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/rescue-efforts-at-meghalaya-coal-mine-blast-site-continue-into-the-fourth-day-101770557301404.html on URL https://www.hindustantimes.com/india-news/rescue-efforts-at-meghalaya-coal-mine-blast-site-continue-into-the-fourth-day-101770557301404.html
+done articlenumber 8
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/entertainment/tamil-cinema/vijay-attends-wedding-event-in-chennai-amid-jana-nayagan-row-clicks-pics-with-fans-watch-101770555576202.html on URL https://www.hindustantimes.com/entertainment/tamil-cinema/vijay-attends-wedding-event-in-chennai-amid-jana-nayagan-row-clicks-pics-with-fans-watch-101770555576202.html
+done articlenumber 9
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/three-bodies-found-inside-parked-car-at-delhis-peeragarhi-flyover-probe-on-101770556571953.html on URL https://www.hindustantimes.com/india-news/three-bodies-found-inside-parked-car-at-delhis-peeragarhi-flyover-probe-on-101770556571953.html
+done articlenumber 10
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/entertainment/bollywood/internet-reacts-as-ayesha-khan-says-she-shot-dhurandhar-song-shararat-during-her-period-ranveer-singh-aditya-dhar-101770553213676.html on URL https://www.hindustantimes.com/entertainment/bollywood/internet-reacts-as-ayesha-khan-says-she-shot-dhurandhar-song-shararat-during-her-period-ranveer-singh-aditya-dhar-101770553213676.html
+done articlenumber 11
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/lifestyle/fashion/nita-ambani-swaps-signature-sarees-for-7-lakh-chanel-blazer-styled-with-sparkling-heart-shaped-diamond-earrings-pics-101770553608012.html on URL https://www.hindustantimes.com/lifestyle/fashion/nita-ambani-swaps-signature-sarees-for-7-lakh-chanel-blazer-styled-with-sparkling-heart-shaped-diamond-earrings-pics-101770553608012.html
+done articlenumber 12
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/videos/netanyahu-assaulted-by-his-own-son-amid-iran-war-drums-shocking-claims-surface-over-yair-sara-netanyahu-101770555861683.html on URL https://www.hindustantimes.com/videos/netanyahu-assaulted-by-his-own-son-amid-iran-war-drums-shocking-claims-surface-over-yair-sara-netanyahu-101770555861683.html
+done articlenumber 13
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/piyush-goyal-was-again-asked-about-trumps-no-russian-oil-condition-he-cited-indias-own-interest-in-buying-from-us-101770553692905.html on URL https://www.hindustantimes.com/india-news/piyush-goyal-was-again-asked-about-trumps-no-russian-oil-condition-he-cited-indias-own-interest-in-buying-from-us-101770553692905.html
+done articlenumber 14
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/world-news/tech-reformist-professor-incumbent-pm-among-key-candidates-in-thailand-polls-101770548280330.html on URL https://www.hindustantimes.com/world-news/tech-reformist-professor-incumbent-pm-among-key-candidates-in-thailand-polls-101770548280330.html
+done articlenumber 15
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/inspector-who-died-in-surajkund-swing-mishap-won-police-medal-in-2020-to-be-recognised-as-martyr-101770542237400.html on URL https://www.hindustantimes.com/india-news/inspector-who-died-in-surajkund-swing-mishap-won-police-medal-in-2020-to-be-recognised-as-martyr-101770542237400.html
+done articlenumber 16
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/world-news/starlinks-entry-in-pakistan-stalled-over-data-security-concerns-regulatory-hurdles-101770549454832.html on URL https://www.hindustantimes.com/world-news/starlinks-entry-in-pakistan-stalled-over-data-security-concerns-regulatory-hurdles-101770549454832.html
+done articlenumber 17
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cities/gurugram-news/surajkund-swing-collapse-haryana-cm-tells-officials-to-ensure-such-incident-do-not-recur-101770554549888.html on URL https://www.hindustantimes.com/cities/gurugram-news/surajkund-swing-collapse-haryana-cm-tells-officials-to-ensure-such-incident-do-not-recur-101770554549888.html
+done articlenumber 18
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/india-news/from-darjeeling-ropeway-to-surajkund-fair-a-list-of-recent-swing-mishaps-101770547139501.html on URL https://www.hindustantimes.com/india-news/from-darjeeling-ropeway-to-surajkund-fair-a-list-of-recent-swing-mishaps-101770547139501.html
+done articlenumber 19
+Failed to fetch article: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/cities/kolkata-news/west-bengal-govt-employees-rally-demanding-immediate-release-of-pending-da-arrears-101770554170580.html on URL https://www.hindustantimes.com/cities/kolkata-news/west-bengal-govt-employees-rally-demanding-immediate-release-of-pending-da-arrears-101770554170580.html
+done articlenumber 20
+Saved 60 articles
+date: extra operand ‘%F’
+Try 'date --help' for more information.
+[main 96f535a] Daily news update -
+ 1 file changed, 520 insertions(+), 518 deletions(-)
+To https://github.com/aarishansari0/news_summary.git
+   37cbcec..96f535a  main -> main
