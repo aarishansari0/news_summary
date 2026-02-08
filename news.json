@@ -1,6 +1,160 @@
 {
-  "lastUpdated": "2026-02-08T14:17:58.319284+00:00",
+  "lastUpdated": "2026-02-08T14:35:40.583667+00:00",
   "articles": [
+    {
+      "id": "79a8e6dd6837a8d0084eee850e8290983b294d6c",
+      "title": "Japan's governing party projected to win snap election majority",
+      "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A coalition led by current Prime Minister Sanae Takaichi is expected to clinch a decisive win, according to media projections after polls closed.",
+      "source": "BBC",
+      "publishedAt": "2026-02-08T14:23:19+00:00",
+      "tags": [
+        "politics"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c933/live/25340710-04e3-11f1-b8f8-d167dab78416.jpg",
+      "content_hash": "1d6e3c0dce9954a532da0b232e2f0d6e104ce504",
+      "ai_summary": "• Japan's governing party is projected to win a snap election.\n• The coalition led by Prime Minister Sanae Takaichi is expected to clinch a decisive win."
+    },
+    {
+      "id": "7975d3ec20f6a76370e916d5ba34eed07c5ede8a",
+      "title": "Deal done, now focus on trade",
+      "link": "https://www.hindustantimes.com/opinion/deal-done-now-focus-on-trade-101770560121399.html",
+      "summary": "India must overhaul its labour-intensive industries to make the most of the trade deals with the US and EU",
+      "source": "Hindustan Times (India News)",
+      "publishedAt": "2026-02-08T14:15:20+00:00",
+      "tags": [
+        "business"
+      ],
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/The-net-impact-of-the-deal-on-the-key-headline-num_1770560116439.jpg",
+      "content_hash": "aaef17cd370e9a31a46baf331b4a227ab928c5ee",
+      "ai_summary": "• India's labour-intensive industries need to be overhauled.\n• Trade deals with the US and EU require India to adapt."
+    },
+    {
+      "id": "0518d14c3334e4e053fae66a70d2c7606a5757a6",
+      "title": "Anupam Kher speaks highly of security guard for returning his lost credit card: ‘Woh apni imaandari ko lekar casual hai’",
+      "link": "https://www.hindustantimes.com/entertainment/bollywood/anupam-kher-praises-security-guard-for-returning-his-lost-credit-card-calls-him-impressive-shares-instagram-post-101770556518464.html",
+      "summary": "Anupam Kher asked the person where he found the credit card and how he came to know that it was his. The actor also praised the man.",
+      "source": "Hindustan Times (India News)",
+      "publishedAt": "2026-02-08T14:15:13+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/_Anupam_Kher__1770559571143_1770559576924.jpg",
+      "content_hash": "734e701825571f2c48df546f807545287c337edf",
+      "ai_summary": "• Anupam Kher speaks highly of security guard for returning his lost credit card\n• Security guard returned Anupam Kher's lost credit card\n• Anupam Kher asked the person where he found the credit card and how he came to know that it was his"
+    },
+    {
+      "id": "3557b1546ee1e9f47454de9c55d841fd5c1c4688",
+      "title": "Surajkund swing tragedy: Ride operator, staffer arrested; CM Saini's strict order",
+      "link": "https://www.hindustantimes.com/india-news/surajkund-swing-tragedy-ride-operator-staffer-arrested-cm-orders-strict-safety-checks-101770553914463.html",
+      "summary": "The incident took place at around 6.15 pm at the Surajkund International Crafts Mela on Saturday evening, when around 26 people were riding the swing.",
+      "source": "Hindustan Times (India News)",
+      "publishedAt": "2026-02-08T14:14:15+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/PTI02-07-2026-000785B-0_1770557426287_1770557457664.jpg",
+      "content_hash": "0f99d30d53eccb9badcc023e2b10dd45fbfe83cf",
+      "ai_summary": "• The incident occurred at around 6.15 pm at the Surajkund International Crafts Mela.\n• Around 26 people were riding the swing.\n• Ride operator and staffer were arrested by the CM Saini's order."
+    },
+    {
+      "id": "36507d773978049400a877aa88d0f394969f6251",
+      "title": "India, Malaysia Ink 11 pacts; UPI-PayNet link to ease remittances",
+      "link": "https://www.hindustantimes.com/india-news/india-malaysia-ink-11-pacts-upi-paynet-link-to-ease-remittances-101770559824276.html",
+      "summary": "PM Modi said he chose Malaysia for his first foreign trip this year as he was unable to travel to Kuala Lumpur for the Asean Summit in 2025",
+      "source": "Hindustan Times (India News)",
+      "publishedAt": "2026-02-08T14:10:23+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/Prime-Minister-Narendra-Modi-with-Malaysian-Prime-_1770559816366.jpg",
+      "content_hash": "d5528f0e4183cd5125a340b9de1c1c418f22d3f5",
+      "ai_summary": "• India inked an agreement with Malaysia.\n• The agreement is related to remittances.\n• UPI-PayNet link is being established."
+    },
+    {
+      "id": "0b07cc050f0e0fee9a6be4e7d71c5bc2cf9d26b5",
+      "title": "Woman films men catcalling her on way to temple, video sparks outrage: 'Weirdest species in the world'",
+      "link": "https://www.hindustantimes.com/trending/woman-films-men-catcalling-her-on-way-to-temple-video-sparks-outrage-weirdest-species-in-the-world-101770558777426.html",
+      "summary": "A woman films men catcalling her while walking to a temple. The video has sparked outrage online, with many condemning the men’s behaviour.&nbsp;",
+      "source": "Hindustan Times (India News)",
+      "publishedAt": "2026-02-08T14:00:06+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/woman_harassed_1770558986737_1770558993168.jpg",
+      "content_hash": "945ad30486f863c938af8ac05fb7082a680e0264",
+      "ai_summary": "• Woman films men catcalling her on way to temple.\n• Video sparks outrage online.\n• Many condemn the men's behavior."
+    },
+    {
+      "id": "0f942531c9e76b495bff6dda1ab61f54c4575368",
+      "title": "Tehran to Jakarta, water shortage is killing cities",
+      "link": "https://www.hindustantimes.com/opinion/tehran-to-jakarta-water-shortage-is-killing-cities-101770559158135.html",
+      "summary": "Tehran faces severe water stress, prompting talk of relocation, as climate change and overexploitation threaten its water supply, mirroring Jakarta's crisis.",
+      "source": "Hindustan Times (India News)",
+      "publishedAt": "2026-02-08T13:59:17+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/Water-scarcity-is-connected-to-climate-and-environ_1770559156200.jpg",
+      "content_hash": "656d1087acd24465ffd07465c98495e82c16aa34",
+      "ai_summary": "• Water shortage is a major issue in both cities.\n• Climate change has exacerbated the problem.\n• Overexploitation of water resources is a concern for both cities."
+    },
+    {
+      "id": "d1c86b219ba01a7edabd29078d94dfc2bd7d78f0",
+      "title": "England beat Nepal by 4 runs; avoid shock at T20 World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/2/8/england-beat-nepal-by-4-runs-avoid-shock-at-t20-world-cup?traffic_source=rss",
+      "summary": "Lokesh&#039;s late heroics with bat are not enough as Nepal are beaten by two-time champions in Group C match in Mumbai.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-02-08T13:58:27+00:00",
+      "tags": [
+        "sports"
+      ],
+      "image": null,
+      "content_hash": "0f8d36298367bbdb57a731942f9cb7ff4b6bf7ac",
+      "ai_summary": "• England's captain Harry Brook scored 53 runs.\n• Jacob Bethell scored 55 runs for England.\n• Rohit Paudel produced a captain's innings for Nepal.\n• Dipendra Singh Airee played with Rohit Paudel.\n• Sam Curran bowled accurately to restrict Nepal's score.\n• Jos Buttler and Tom Banton fell in quick succession during their innings.\n• Dipendra Singh Airee scored 44 runs for Nepal.\n• Rohit Paudel scored 39 runs for Nepal.\n• Jofra Archer was hit for back-to-back sixes by Bam."
+    },
+    {
+      "id": "a7f0fbeb2cd8e1f22dadd0a4e454c3d814bc92ed",
+      "title": "England vs Nepal, T20 World Cup 2026: ENG clinch narrow victory in campaign opener - Action in images",
+      "link": "https://www.hindustantimes.com/photos/cricket/england-vs-nepal-t20-world-cup-2026-eng-clinch-narrow-victory-in-campaign-opener-action-in-images-101770558610011.html",
+      "summary": "Harry Brook and Jacob Bethell got half-centuries as England defeated Nepal by four runs in their T20 World Cup opener.",
+      "source": "Hindustan Times (India News)",
+      "publishedAt": "2026-02-08T13:56:51+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/PTI02-08-2026-000337B-0_1770558598701_1770558639393.jpg",
+      "content_hash": "5ac7fc5814ac2d3c2e25e5bd02723943185150e9",
+      "ai_summary": "• England vs Nepal, T20 World Cup 2026: ENG clinch narrow victory\n• Harry Brook and Jacob Bethell got half-centuries\n• Nepal lost by four runs"
+    },
+    {
+      "id": "4f55844fc8c12f1e4a57666b552e301e2c6f3e3c",
+      "title": "US federal agent breaks pet dog’s rib in Tennessee",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/us-federal-agent-breaks-pet-dogs-rib-in-tennessee?traffic_source=rss",
+      "summary": "A Tennessee woman says her dog suffered a broken rib after being kicked by a federal officer.",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-02-08T13:56:14+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": null,
+      "content_hash": "794cce67d8134e42edc8f6afc640da66cf8c555b",
+      "ai_summary": "• US federal agent breaks pet dog's rib in Tennessee.\n• Dog was kicked by a federal officer.\n• Federal officer is a US federal agent."
+    },
+    {
+      "id": "4c9fe54fdf27612ae7fa972ba2eb0edc8ed84382",
+      "title": "Gambhir gushes over Suryakumar Yadav's Wankhede 'masterclass' vs USA in dressing room: 'One of the best knocks...'",
+      "link": "https://www.hindustantimes.com/cricket/gambhir-gushes-over-suryakumar-yadavs-wankhede-masterclass-vs-usa-in-dressing-room-one-of-the-best-knocks-101770556665156.html",
+      "summary": "India registered a 29-run victory against the USA to begin their title defence on a positive note",
+      "source": "Hindustan Times (India News)",
+      "publishedAt": "2026-02-08T13:54:00+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/PTI02-07-2026-000480B-0_1770556685450_1770556720140.jpg",
+      "content_hash": "cf04ff4ca3dfb814a4d3113062572a6b27fb0f66",
+      "ai_summary": "• Gambhir gushes over Suryakumar Yadav's performance.\n• Suryakumar Yadav scored a masterclass.\n• The match was played between India and the USA."
+    },
     {
       "id": "0faba96a77fd4a5e69a618f8042ac3167b87586c",
       "title": "Meghan Markle stuns in classy strapless gown at the 2026 Fifteen Percent Pledge Gala | See video",
@@ -14,6 +168,20 @@
       "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/Meghan_Markle_1770558414500_1770558430859.jpg",
       "content_hash": "572b30ba26517e38784366918c877f7c6d6adf48",
       "ai_summary": "• Meghan Markle attended the Fifteen Percent Pledge Gala.\n• The event took place in 2026.\n• Meghan Markle wore a strapless gown."
+    },
+    {
+      "id": "665f455beb6c1a38be8a58261395f8ddb2e02720",
+      "title": "USA's Johnson wins women's downhill gold",
+      "link": "https://www.bbc.com/sport/videos/c8jxlg1jgelo?at_medium=RSS&at_campaign=rss",
+      "summary": "USA's Breezy Johnson wins the women's downhill gold medal, the same alpine skiing event in which her compatriot Lindsey Vonn suffered a heartbreaking crash in, to win her first Winter Olympics title at Milan-Cortina 2026.",
+      "source": "BBC",
+      "publishedAt": "2026-02-08T13:47:05+00:00",
+      "tags": [
+        "general"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1030/live/ee55f540-04f7-11f1-9972-d3f265c101c6.jpg",
+      "content_hash": "07292908a4c24cc61494ec8d93b92f75f0237ebf",
+      "ai_summary": "• USA's Johnson wins women's downhill gold.\n• Breezy Johnson wins the women's downhill gold medal.\n• Lindsey Vonn suffers a heartbreaking crash."
     },
     {
       "id": "2b51a53aaf6ce83f56326e40b3f8c669b90be02a",
@@ -171,20 +339,6 @@
       "ai_summary": "• Three bodies were found inside a parked car.\n• The incident occurred at Delhi's Peeragarhi flyover.\n• A team of Delhi Police was sent to investigate."
     },
     {
-      "id": "79a8e6dd6837a8d0084eee850e8290983b294d6c",
-      "title": "Japan's governing party projected to win snap election majority",
-      "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A coalition led by current Prime Minister Sanae Takaichi is expected to clinch a decisive win, according to media projections after polls closed.",
-      "source": "BBC",
-      "publishedAt": "2026-02-08T13:19:07+00:00",
-      "tags": [
-        "politics"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c933/live/25340710-04e3-11f1-b8f8-d167dab78416.jpg",
-      "content_hash": "1d6e3c0dce9954a532da0b232e2f0d6e104ce504",
-      "ai_summary": "• Japan's governing party is projected to win a snap election.\n• The coalition led by Prime Minister Sanae Takaichi is expected to clinch a decisive win."
-    },
-    {
       "id": "0f048f42de04d7b7cfca1942b5d1d68ff6db7399",
       "title": "Internet reacts as Ayesha Khan says she shot Dhurandhar song Shararat during her period: ‘You owned it’",
       "link": "https://www.hindustantimes.com/entertainment/bollywood/internet-reacts-as-ayesha-khan-says-she-shot-dhurandhar-song-shararat-during-her-period-ranveer-singh-aditya-dhar-101770553213676.html",
@@ -213,49 +367,6 @@
       "ai_summary": "• Nita Ambani swaps signature sarees for a ₹7 lakh Chanel blazer\n• She styles it with sparkling heart-shaped diamond earrings\n• The outfit is part of her appearance at the IOC Session ahead of the Winter Olympic Games\n• Nita Ambani rocks power blazers, chic coats, and dazzling jewellery"
     },
     {
-      "id": "5d0142b529540d296e658a5f46938e200bcfa73a",
-      "title": "Netanyahu assaulted by his own son? Amid Iran war drums, shocking claims surface over Yair & Sara Netanyahu",
-      "link": "https://www.hindustantimes.com/videos/netanyahu-assaulted-by-his-own-son-amid-iran-war-drums-shocking-claims-surface-over-yair-sara-netanyahu-101770555861683.html",
-      "summary": "Amid Israel’s preparations for a possible confrontation with Iran, former Netanyahu security chief Ami Dror has made explosive claims about the prime minister’s family. Speaking to the Israeli newspaper Maariv, Dror alleged a violent confrontation occurred between Benjamin Netanyahu and his son, requiring intervention by others. He also accused Sara Netanyahu of stealing hotel towels and gifts during official trips, calling her a “kleptomaniac” and highly influential in family decisions. Dror further claimed that Netanyahu avoided paying restaurant bills and lacked ethics. The allegations resurface as Netanyahu continues to face long-running trials over bribery, fraud and breach of trust.",
-      "source": "Hindustan Times (India News)",
-      "publishedAt": "2026-02-08T13:06:16+00:00",
-      "tags": [
-        "conflict"
-      ],
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/4_1770555917158_1770555921308.jpg",
-      "content_hash": "0647048ade0720d5e5fc11e2f1330794c691778d",
-      "ai_summary": "• Benjamin Netanyahu is the Prime Minister of Israel.\n• Ami Dror was a former Netanyahu security chief.\n• Yair Netanyahu is Benjamin Netanyahu's son.\n• Sara Netanyahu is Benjamin Netanyahu's wife.\n• Iran is a country in the Middle East.\n• The Israeli newspaper Maariv published an interview with Ami Dror."
-    },
-    {
-      "id": "9126185db794d78d9a934c88addb33f8a80d1aa7",
-      "title": "Piyush Goyal was again asked about Trump's no-Russian-oil condition, he cited 'India's own interest' in buying from US",
-      "link": "https://www.hindustantimes.com/india-news/piyush-goyal-was-again-asked-about-trumps-no-russian-oil-condition-he-cited-indias-own-interest-in-buying-from-us-101770553692905.html",
-      "summary": "Commerce minister says deal won't discuss who will buy what and from where; “it ensures that the pathway to trade is smooth; ensures preferential access\"",
-      "source": "Hindustan Times (India News)",
-      "publishedAt": "2026-02-08T13:03:51+00:00",
-      "tags": [
-        "politics",
-        "business"
-      ],
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/piyushfinalgif_1770557296975_1770557304946.gif",
-      "content_hash": "b11a7b6dd06fc7f7092d50cd95050eeae8b12851",
-      "ai_summary": "• Piyush Goyal was asked about Trump's no-Russian-oil condition.\n• The condition cited 'India's own interest' in buying from US.\n• A deal won't discuss who will buy what and from where.\n• The condition ensures that the pathway to trade is smooth."
-    },
-    {
-      "id": "56be07d60c26c96fb2bc39f73b889e6e261a6952",
-      "title": "Tech reformist, professor, incumbent PM among key candidates in Thailand polls",
-      "link": "https://www.hindustantimes.com/world-news/tech-reformist-professor-incumbent-pm-among-key-candidates-in-thailand-polls-101770548280330.html",
-      "summary": "Front-runners of Thailand elections include tech progressive Natthaphong Ruengpanyawut, incumbent PM Anutin Charnvirakul, and dynast Yodchanan Wongsawat.",
-      "source": "Hindustan Times (India News)",
-      "publishedAt": "2026-02-08T12:59:21+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/thailand_1770554293851_1770554306725.jpg",
-      "content_hash": "a16684856529e80b3dc95bde4523fc4021f017a3",
-      "ai_summary": "• Tech progressive\n• Incumbent PM\n• Dynast"
-    },
-    {
       "id": "ea2ee9d93ae4d31be4bd56edc85423709c9c4143",
       "title": "India and Malaysia pledge to bolster trade, defence collaborations",
       "link": "https://www.aljazeera.com/news/2026/2/8/india-and-malaysia-pledge-to-bolster-trade-defence-collaborations?traffic_source=rss",
@@ -270,20 +381,6 @@
       "ai_summary": "• Indian Prime Minister Narendra Modi met Malaysian Prime Minister Anwar Ibrahim in Putrajaya.\n• Malaysia and India elevated ties to a comprehensive strategic partnership in August 2024.\n• India and Malaysia signed 11 cooperation agreements, including on disaster management and peacekeeping.\n• Bilateral trade between the two countries surpassed $18.6bn last year.\n• India and Malaysia have conducted five joint military exercises in the past five years.\n• Defence cooperation is expected to grow further between the two countries.\n• Imports from Malaysia amounted to $12.54bn.\n• The main imports were minerals, vegetable oil, and electrical machinery and equipment."
     },
     {
-      "id": "3a3fe8ee774f4ccd7dfa444b5cab43e7cf7ab50c",
-      "title": "Inspector who died in Surajkund swing mishap won Police Medal in 2020, to be recognised as martyr",
-      "link": "https://www.hindustantimes.com/india-news/inspector-who-died-in-surajkund-swing-mishap-won-police-medal-in-2020-to-be-recognised-as-martyr-101770542237400.html",
-      "summary": "Harayana DGP announced a compensation of  ₹1 crore for the brave inspector who died in Surajkund mishap and a government job for one of family member.",
-      "source": "Hindustan Times (India News)",
-      "publishedAt": "2026-02-08T12:50:23+00:00",
-      "tags": [
-        "politics"
-      ],
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/jagdish_prasad_1770544739338_1770544750354.jpg",
-      "content_hash": "006a9f691fc05e51d46540872ca5929b42547a95",
-      "ai_summary": "• Inspector died in Surajkund swing mishap\n• Police Medal awarded to inspector in 2020\n• ₹1 crore compensation announced by Harayana DGP\n• Government job offered to one of the inspector's family members"
-    },
-    {
       "id": "0b8e958462601b9f0b1db4589836e5e8d8d87e00",
       "title": "Vonn crashes in downhill as Johnson wins gold",
       "link": "https://www.bbc.com/sport/articles/c98q5g51z4no?at_medium=RSS&at_campaign=rss",
@@ -296,76 +393,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be00/live/9c9c1ff0-04e7-11f1-b5e2-dd58fc65f0f6.jpg",
       "content_hash": "f23386462bcd1e9d50f2d7a278f29608a81269e4",
       "ai_summary": "• Lindsey Vonn ruptured ligaments in her left knee nine days before competing in the Winter Olympics.\n• Lindsey Vonn crashed in the women's downhill competition at the Winter Olympics.\n• Breezy Johnson clocked a time of one minute 36.10 seconds to win gold.\n• Emma Aicher took the silver medal, finishing 0.04 seconds behind the winner.\n• Sofia Goggia secured bronze in the women's downhill competition at the Winter Olympics."
-    },
-    {
-      "id": "cdc98b598dc56e8d74c0098b4aca198152f0ee7d",
-      "title": "Elon Musk's Starlink's entry in Pakistan stalled over data security concerns, regulatory hurdles",
-      "link": "https://www.hindustantimes.com/world-news/starlinks-entry-in-pakistan-stalled-over-data-security-concerns-regulatory-hurdles-101770549454832.html",
-      "summary": "The Pakistan government has flagged the issue that Starlink could transmit certain data bypassing Pakistan's monitoring, regulatory and safety checks.",
-      "source": "Hindustan Times (India News)",
-      "publishedAt": "2026-02-08T12:44:15+00:00",
-      "tags": [
-        "politics"
-      ],
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/KENYA-STARLINK-7_1770550666280_1770550676107.jpg",
-      "content_hash": "3cdb3ec4610bddecbcd81adbfe765029372405c3",
-      "ai_summary": "• Elon Musk's Starlink is available in Pakistan.\n• The Pakistan government has expressed concern about data security.\n• Regulatory hurdles have stalled Starlink's entry in Pakistan.\n• Starlink can potentially transmit data bypassing Pakistan's monitoring."
-    },
-    {
-      "id": "7516d89557c37ae43ac23677eb896d7207c106a5",
-      "title": "Surajkund swing collapse: Haryana CM tells officials to ensure such incident do not recur",
-      "link": "https://www.hindustantimes.com/cities/gurugram-news/surajkund-swing-collapse-haryana-cm-tells-officials-to-ensure-such-incident-do-not-recur-101770554549888.html",
-      "summary": "Surajkund swing collapse: Haryana CM tells officials to ensure such incident do not recur",
-      "source": "Hindustan Times (India News)",
-      "publishedAt": "2026-02-08T12:42:29+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/01/27/1600x900/logo/ht-generic_cities1_1769511807303_1769511865290.jpg",
-      "content_hash": "fd7a2a82efee27694ce1278ab23b0c88724285b2",
-      "ai_summary": "• The Surajkund swing collapsed in Haryana.\n• The incident occurred during a festival event.\n• Officials were present at the site when the collapse happened.\n• The cause of the collapse is under investigation."
-    },
-    {
-      "id": "495096db82e5d97038930a290771263111f4d675",
-      "title": "From Darjeeling ropeway to Surajkund fair: A list of recent swing mishaps",
-      "link": "https://www.hindustantimes.com/india-news/from-darjeeling-ropeway-to-surajkund-fair-a-list-of-recent-swing-mishaps-101770547139501.html",
-      "summary": "The collapse of a swing ride at Surajkund Mela in Faridabad that killed a police inspector and injured many, ignited concerns over safety in amusement parks.",
-      "source": "Hindustan Times (India News)",
-      "publishedAt": "2026-02-08T12:39:43+00:00",
-      "tags": [
-        "conflict"
-      ],
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/02/08/1600x900/logo/Surajkund_accident_triggers_flashback_to_accidents_1770552002438_1770552002782.jpg",
-      "content_hash": "82b01ca5a70a2139c5920a28e6ff45123b264385",
-      "ai_summary": "• A swing ride collapsed at Surajkund Mela in Faridabad.\n• The incident killed a police inspector.\n• Many people were injured."
-    },
-    {
-      "id": "97c90dc257a7cbaae0e415cba2f9a31bd495865c",
-      "title": "Don't drop PM over Mandelson, minister urges Labour MPs",
-      "link": "https://www.bbc.com/news/articles/cy03nd2yxzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pat McFadden says Sir Keir Starmer made a mistake - but ditching him would destabilise the country.",
-      "source": "BBC",
-      "publishedAt": "2026-02-08T12:38:44+00:00",
-      "tags": [
-        "politics"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad57/live/14a1cdd0-04eb-11f1-8bb6-81a84917ac9a.jpg",
-      "content_hash": "ad23bf700a94bbf897538a100b929c9807c54b11",
-      "ai_summary": "• Sir Keir Starmer is the leader of the Labour Party.\n• Pat McFadden is a Labour MP.\n• Sir Keir Starmer made a mistake, according to Pat McFadden."
-    },
-    {
-      "id": "a817e63a3dfab9212591d67b401f354f92d16288",
-      "title": "West Bengal govt employees rally demanding immediate release of pending DA arrears",
-      "link": "https://www.hindustantimes.com/cities/kolkata-news/west-bengal-govt-employees-rally-demanding-immediate-release-of-pending-da-arrears-101770554170580.html",
-      "summary": "West Bengal govt employees rally demanding immediate release of pending DA arrears",
-      "source": "Hindustan Times (India News)",
-      "publishedAt": "2026-02-08T12:36:10+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/01/27/1600x900/logo/ht-generic_cities1_1769511807303_1769511865290.jpg",
-      "content_hash": "89c22723f5d5ca75bf289c7d1a6674a3b83fa766",
-      "ai_summary": "• West Bengal government employees are rallying.\n• The demand is for the immediate release of pending DA (Dearness Adjustment) arrears.\n• The rally is in support of the demands made by the West Bengal government employees."
     },
     {
       "id": "31df328cac494d5680566adf1138a973a25d747b",
@@ -399,15 +426,15 @@
       "id": "1dddf55d69c887d72993428bc1fc1ce1b27c7c90",
       "title": "Lindsey Vonn ⁠crashes out; Breezy Johnson wins downhill at Winter Olympics",
       "link": "https://www.aljazeera.com/sports/2026/2/8/lindsey-vonn-%e2%81%a0crashes-out-breezy-johnson-wins-downhill-at-winter-olympics?traffic_source=rss",
-      "summary": "Skiing icon Vonn cried in anguish and pain after her awful fall high up the course days after sustaining an ACL injury.",
+      "summary": "Skiing icon Lindsey Vonn fell seconds into her run of the women&#039;s downhill just days after sustaining an ACL injury.",
       "source": "Al Jazeera",
       "publishedAt": "2026-02-08T12:11:37+00:00",
       "tags": [
         "general"
       ],
       "image": null,
-      "content_hash": "9c41a827c934d611d19c15becf8e71dd66ab9554",
-      "ai_summary": "• Lindsey Vonn suffered a ruptured anterior cruciate ligament in her left knee.\n• Breezy Johnson won the women's downhill race at the Milan-Cortina Games.\n• Emma Aicher took the silver medal, 0.04 seconds behind Johnson.\n• Sofia Goggia finished third, taking the bronze medal.\n• Lindsey Vonn retired in 2019.\n• Lindsey Vonn returned to competition in November 2024 after surgery."
+      "content_hash": "a4a9a755e4ed0331ba25d5d87a5a0edba019a6e1",
+      "ai_summary": "• Lindsey Vonn fell seconds into her run of the women's downhill.\n• Breezy Johnson won the race to claim gold on Sunday.\n• Germany's Emma Aicher took the silver medal, 0.04 seconds slower than Johnson.\n• Italy's Sofia Goggia settled for bronze.\n• Lindsey Vonn suffered a ruptured anterior cruciate ligament in her left knee about a week ago.\n• The 2010 Olympic downhill champion hit the firm snow face after just 13 seconds of her descent.\n• Vonn retired in 2019.\n• She returned to competition in November 2024 after surgery."
     },
     {
       "id": "c58638260be38373240040bcd0b8ff57d72744d5",
@@ -635,20 +662,6 @@
       "ai_summary": "• The Red Sea and the Gulf of Aden are among the world's most contested maritime corridors.\n• Somalia has a coastline that is the longest in mainland Africa.\n• A substantial share of global maritime trade and energy shipments pass through the Bab al-Mandeb passage.\n• More than 70 percent of Somalis are aged below 30."
     },
     {
-      "id": "aa7e82dba7964236720644f8c7dc82622a6ebee4",
-      "title": "Washington Post CEO resigns after sweeping layoffs",
-      "link": "https://www.aljazeera.com/news/2026/2/8/washington-post-ceo-resigns-after-sweeping-layoffs?traffic_source=rss",
-      "summary": "Will Lewis acknowledges &#039;difficult decisions&#039; made during his rocky, two-year tenure.",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-02-08T07:54:59+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "d5e9cd17c464319cce7997b7447905b2922656c5",
-      "ai_summary": "• Jeff Bezos owns the Washington Post.\n• Chief financial officer Jeff D'Onofrio will take over as CEO immediately.\n• The Post lost $100m in revenue in 2024."
-    },
-    {
       "id": "ed5f024956f8e6c48945c911fefadbf3a9e663f1",
       "title": "I turned myself into an AI-generated deathbot - here's what I found",
       "link": "https://www.bbc.com/news/articles/c93wjywz5p5o?at_medium=RSS&at_campaign=rss",
@@ -661,20 +674,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f198/live/3ea9bfa0-04c0-11f1-a499-f1ea1aa8296c.png",
       "content_hash": "06b681feed08ad61716d0d0608273c0ed7cd68e1",
       "ai_summary": "• A Cardiff University researcher recreated her own voice using a deathbot.\n• The researcher used a deathbot to create the new voice.\n• The deathbot was an AI-generated creation."
-    },
-    {
-      "id": "f2300b8c4cdd44209eae2b6cc8c237f6b07fc778",
-      "title": "Saudi Arabia denounces ‘foreign interference’ in Sudan after RSF attacks",
-      "link": "https://www.aljazeera.com/news/2026/2/8/saudi-arabia-slams-foreign-interference-in-sudan-after-deadly-rsf-attacks?traffic_source=rss",
-      "summary": "Riyadh condemns RSF attacks in Kordofan, blames foreign fighters and weapons for fuelling Sudan&#039;s three-year conflict.",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-02-08T07:34:12+00:00",
-      "tags": [
-        "general"
-      ],
-      "image": null,
-      "content_hash": "cb81610ffd2aee9086c4cf197575a8ac8fc8fb5b",
-      "ai_summary": "• Saudi Arabia has reaffirmed its support for Sudan's territorial unity and integrity.\n• A drone attack by the RSF on a vehicle transporting displaced families killed at least 24 people, including eight children.\n• At least one person was killed in an assault on a World Food Programme convoy.\n• Targeting relief convoys and humanitarian assets constitutes a grave violation of international humanitarian law.\n• The nearly three-year-long conflict has killed an estimated 40,000 people.\n• More than 21 million people have been pushed into acute food shortages due to the conflict.\n• The UAE is accused by the Sudanese government of arming and funding the RSF.\n• Saudi Arabia accused the UAE of backing the Southern Transitional Council (STC) in Yemen."
     },
     {
       "id": "0849600245d587595317a4d0982af68e05fc3851",
@@ -775,18 +774,18 @@
       "ai_summary": "• It was a small budget series.\n• It was made in a month.\n• Its fans helped it become a huge hit.\n• It was Canadian-produced."
     },
     {
-      "id": "16a50c547fe7851c07a494d86818b0208c0d948a",
-      "title": "Famous but deadly kite flying festival returns after 19-year ban",
+      "id": "1b1459667106f1e5c1e085925db172a429da4ba6",
+      "title": "Pakistan's famous kite festival cautiously returns after 19-year ban",
       "link": "https://www.bbc.com/news/articles/c1dkd5ql91lo?at_medium=RSS&at_campaign=rss",
-      "summary": "After injuries and fatalities caused by sharp strings, falls and celebratory gunfire, an event that dates back centuries returns.",
+      "summary": "The event, which dates back centuries, was banned after injuries and fatalities caused by sharp strings and celebratory gunfire.",
       "source": "BBC",
       "publishedAt": "2026-02-08T00:01:49+00:00",
       "tags": [
         "general"
       ],
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ff/live/c1af9730-04e8-11f1-b5e2-dd58fc65f0f6.jpg",
-      "content_hash": "0a2c5fa9962349bea9d47e23a08c1f9d47e12ad5",
-      "ai_summary": "• Kite flying is a popular cultural tradition in China.\n• The festival has been banned for 19 years due to safety concerns.\n• Injuries and fatalities have occurred during kite flying events."
+      "content_hash": "7b693cf92d784e97a32987f2ed89a862f536e22a",
+      "ai_summary": "• Pakistan's famous kite festival has been banned for 19 years.\n• The festival is held in the city of Lahore every year.\n• Kites are used as a symbol of Pakistani culture."
     },
     {
       "id": "843ef011ce0a7a95ebf147393b080e3eaddf6825",
@@ -817,18 +816,18 @@
       "ai_summary": "• Lindsey Vonn won 45 World Cup races in downhill.\n• Johannes Hosflot Klaebo is the world champion in skiathlon.\n• Britain's youngest Winter Olympic medallist is Maisie Hill.\n• Kokomo Murase, Reira Iwabuchi, and Mari Fukada formed a clean sweep of the medals at last year's World Championships.\n• Anna Gasser aims to win the event for the third Games in a row at the age of 34."
     },
     {
-      "id": "eac60bd36dfd1dba6dc906d3ff116d0e043d9b17",
-      "title": "Team GB cannot wear new skeleton helmets after they were ruled wrong shape",
-      "link": "https://www.bbc.com/sport/articles/cy7m73yep24o?at_medium=RSS&at_campaign=rss",
-      "summary": "The British skeleton team - among Team GB's best hopes for medals at the Winter Olympics - will not be able to wear their new helmets after the Court of Arbitration for Sport said they do not comply with the sport's rules around shape.",
+      "id": "89f916ff57f12bb884efe84ac943b28266f7376b",
+      "title": "What happened to the baby born in an army truck in the 1996 big snow?",
+      "link": "https://www.bbc.com/news/articles/cpdy3l836nzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Roper family will never forget the heaviest February snowfall on record in south-west Scotland.",
       "source": "BBC",
-      "publishedAt": "2026-02-07T19:07:27+00:00",
+      "publishedAt": "2026-02-05T06:23:45+00:00",
       "tags": [
         "general"
       ],
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee17/live/fddc0700-0431-11f1-a121-bb6fe0db472f.jpg",
-      "content_hash": "dce08f96b48ca4b0376093da75db8f52eca49602",
-      "ai_summary": "• New safety regulations are set to be introduced by the IBSF at the start of the 2026-27 season.\n• The IBSF banned Team GB's helmets on 29 January."
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7be6/live/93595030-01ad-11f1-ba93-a3f256eaa772.png",
+      "content_hash": "cf786ab84a9bd2b0f9329cef6bfe994cd98f2731",
+      "ai_summary": "• A baby was born in an army truck in the 1996 big snow.\n• The Roper family is said to have been present at the birth."
     },
     {
       "id": "235974bafdb08fbf78964e08cbe8cced49928ff8",
